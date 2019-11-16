@@ -17,10 +17,16 @@ Our one of the biggest challenge was achieving the maximum accuracy of the Image
 How to utilize Microsoft Azure’s Image to Text with better efficiency and how to integrate it to develop real time application.
 
 ## Technologies Used:
-• Artificial Intelligence and Machine Learning to extract useful data from images using Microsoft Azure. 
-• Python 
-• Core Java 
-• Android Studio 
-• Anaconda 
-• Jupyter Notebook 
+• Artificial Intelligence and Machine Learning to extract useful data from images using Microsoft Azure.
+
+• Python
+
+• Core Java
+
+• Android Studio
+
+• Anaconda
+
+• Jupyter Notebook
+
 • Excel Workbooks
